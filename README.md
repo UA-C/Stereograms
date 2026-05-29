@@ -1,2 +1,2 @@
 # Stereograms
-A collection of stereograms
+Welcome to the Unseen Art collection of stereograms.
